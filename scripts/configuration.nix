@@ -48,6 +48,7 @@
     netcat
     nfs-utils
     rsync
+    cifs-utils
   ];
 
   users.users.root = { password = "vagrant"; };
